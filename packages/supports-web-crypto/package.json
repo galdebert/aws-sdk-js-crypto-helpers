@@ -27,6 +27,6 @@
   },
   "types": "./build/main/index.d.ts",
   "dependencies": {
-    "tslib": "~2.6.2"
+    "tslib": "^2.6.2"
   }
 }
